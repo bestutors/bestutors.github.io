@@ -1,0 +1,10 @@
+form{
+	/*/border-radius: 50px;*/
+	height: 700px;
+	padding:10px;
+    margin-right:30px;
+}
+
+#messageid{
+	height: 150px;
+}

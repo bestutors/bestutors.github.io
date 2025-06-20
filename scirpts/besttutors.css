@@ -1,0 +1,71 @@
+﻿#bthead{
+    text-align: center;
+    font-size: 400%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    border-bottom: solid;
+    margin: 10px;
+}
+#besttutorstbl {
+    width: 100%;
+    height: 100%;
+}
+body{
+    width: 99%;
+    background-color:antiquewhite;
+    height: 100%;
+}
+#label1{
+    font-size: xx-large;
+}
+.td1{
+    width: 100%;
+    height: 215px;
+    text-align: left;
+    font-weight: bold;
+    background-image: url(../pics/animatedschool.jpg);
+    background-position:right;
+    background-repeat:no-repeat;
+}
+#lblphone{
+     font-size: 300%;
+}
+.ENGorFRENCH {
+    width: 100%;
+}
+#img1{
+    float: left;
+    width: 20%;
+}
+#BulletedList1{
+    text-align: left;
+    float:right;
+    margin-right: 300px;
+}
+#picTD {
+    width: 100%;
+}
+#besttutorsform{
+    border:solid;
+}
+#img2 {
+    float: right;
+    width: 30%;
+    height: 200px;
+}
+#Label2 {
+    float: left;
+    font-size: 200%;
+}
+#bulletlabel{
+    font-size: 180%;
+}
+#TeachandStudentpic {
+    background-repeat: no-repeat;
+    width: 400px;
+    height: 200px;
+    margin-left: 300px;
+}
+#emaillegend{
+    font-size: 200%;
+}
