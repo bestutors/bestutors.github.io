@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Email</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" type="text/css" href="scirpts/EmailStyle.css" />
+    <link rel="stylesheet" type="text/css" href="javascript/jquery.mobile.css" />
+
+    <script type='text/javascript' src='scirpts/jquery.js'></script>
+    <script type='text/javascript' src='scirpts/jquery.mobile.js'></script>
+</head>
+<body class="ui-page-theme-b" data-role="page">
+    <div class="ui-grid-a">
+        <div data-role="header">
+            <a href="index.html" data-icon="home" style="font-size: 130%;">Home Page</a>
+            <h1 style="text-align:center; font-size: x-large;">Email To Setup An Appointment</h1>
+        </div>
+        <div id="emailpage" data-role="fieldcontain" class="ui-page-theme-b">
+            <form action="MAILTO:bestutors@nextsolution.ca" method="post" enctype="multipart/form-data" style="margin-right: 10px;">
+                <h2 data-role="header" style="text-align:center;">Send A Message</h2>
+                <label>
+                    Your Name:
+                    &nbsp;&nbsp;<input type="text" name="name" value="" />
+                </label>
+                <label>
+                    Your E-mail:
+                    &nbsp;&nbsp;<input type="email" name="mail" value="" />
+                </label>
+                <label>
+                    Your Message for Bestutors@nextsolution.ca:
+                    &nbsp;&nbsp;<input id="messageid" type="text" name="comment" value="" />
+                </label>
+                <input type="submit" value="Send" />
+                <input type="reset" value="Reset" />
+            </form>
+        </div>
+    </div>
+</body>
+</html>
+
+
