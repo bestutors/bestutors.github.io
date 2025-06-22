@@ -49,27 +49,28 @@ tr{
 #BulletedList1{
     text-align: left;
     float: left;
-    margin-left: 40px;
+    margin-left: 10px;
 }
 #picTD {
-    width: 45%;
+    width: 100%;
+    text-align: center;
 }
 #besttutorsform{
     border:solid;
     width: auto;
     height: auto;
 }
-#img2 {
-    width: 99%;
-    height: 190px;
-    padding-left: 10px;
-}
+/*#img2 {
+    width: 60%;
+    height: 200px;
+    text-align: center;
+}*/
 #Label2 {
-    float: left;
-    font-size: 180%;
+    text-align: center;
+    font-size: 160%;
 }
 #BulletedList1{
-    font-size: 160%;
+    font-size: 180%;
 }
 #TeachandStudentpic {
     width: 300px;
