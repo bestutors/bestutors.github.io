@@ -27,11 +27,11 @@ body{
 }
 .td2 {
     width: 35%;
-    float: right;
+    float: left;
     background-image: url(../pics/animatedschool.jpg);
     height: 235px;
     background-repeat: no-repeat;
-    margin-right: 50px;
+    margin-left: 15px;
 }
 #lblphone{
      font-size: 300%;
