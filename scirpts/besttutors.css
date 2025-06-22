@@ -7,7 +7,7 @@
     margin: 0.6px;
 }
 #besttutorstbl {
-    width: 100%;
+    width: 99%;
     height: 100%;
 }
 body{
@@ -16,7 +16,7 @@ body{
     height: 100%;
 }
 #label1{
-    font-size: xx-large;
+    font-size: x-large;
 }
 .td1{
     width: 55%;
@@ -65,8 +65,8 @@ body{
     float: left;
     font-size: 180%;
 }
-#bulletlabel{
-    font-size: 180%;
+#BulletedList1{
+    font-size: 160%;
 }
 #TeachandStudentpic {
     width: 300px;
