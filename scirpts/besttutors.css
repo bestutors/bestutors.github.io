@@ -26,12 +26,12 @@ body{
     float: left;
 }
 .td2 {
-    width: 35%;
+    width: 40%;
     float: left;
-    background-image: url(../pics/animatedschool.jpg);
-    height: 235px;
-    background-repeat: no-repeat;
-    margin-left: 15px;
+}
+#schoolid{
+    width: 100%;
+    height: 215px;
 }
 #lblphone{
      font-size: 300%;
@@ -45,8 +45,8 @@ body{
 }
 #BulletedList1{
     text-align: left;
-    float: right;
-    margin-right: 200px;
+    float: left;
+    margin-left: 100px;
 }
 #picTD {
     width: 45%;
